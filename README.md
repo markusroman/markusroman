@@ -11,4 +11,4 @@ I am a 20-year-old student who has a strong passion and interest in programming 
 - 📫 How to reach me: **markus.roman@hotmail.fi**
 - ⚡ Fun fact: I've made a hole-in-one in golf
 
-![](https://github-readme-stats.vercel.app/api?username=markusroman&show_icons=true&hide_border=true)
+![Markus' Github Stats](https://github-readme-stats.vercel.app/api?username=markusroman&show_icons=true&hide_border=true)

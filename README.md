@@ -5,7 +5,7 @@ I am a 20-year-old student who has a strong passion and interest in programming 
 ---
 
 - 🔭 I’m currently a **student** at Tampere University
-- 🌱 I’m currently learning **fullstack development** and more specifically **React.js**
+- 🌱 I’m currently learning **fullstack development** and more specifically **React.js** and **GraphQL**
 - 👯 I’m looking to collaborate on anything interesting
 - 💬 Ask me about anything that interests you
 - 📫 How to reach me: **markus.roman@hotmail.fi**

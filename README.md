@@ -20,12 +20,12 @@
 
 <div align="center">
     <a href="https://github.com/JonesTPG/fullstack-theme-base">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=fullstack-theme-base&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=fullstack-theme-base&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
     </a>
     <a href="https://github.com/markusroman/Ohjelmointi2">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin?username=markusroman&repo=Ohjelmointi2&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin?username=markusroman&repo=Ohjelmointi2&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
     </a>
     <a href="https://github.com/JonesTPG/hack-the-crisis">
-    <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=hack-the-crisis&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    <img height="125px" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=hack-the-crisis&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
     </a>
 </div>

@@ -1,9 +1,8 @@
 <p align="center">
- <h1 align="center">Hi there 👋, I'm Markus!</h1>
- <p align="center">Here is a short introduction to me</p>
-</p>
-<p align="center">
- <h3 align="center">I am a 20-year-old student who has a strong passion and interest in programming 💻 & IoT 📱.</h3>
+    <h1 align="center">Hi there 👋, I'm Markus!</h1>
+    <h3 align="center">
+        I am a 20-year-old student who has a strong passion and interest in programming 💻 & IoT 📱.
+    </h3>
 </p>
 
 ---
@@ -19,13 +18,16 @@
 
 ## Featured repositories
 
-<a href="https://github.com/JonesTPG/fullstack-theme-base">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=fullstack-theme-base" />
-</a>
-<a href="https://github.com/markusroman/Ohjelmointi2">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=markusroman&repo=Ohjelmointi2&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-## Top languages
-
-[![Markus' top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markusroman)](https://github.com/markusroman)
+<div align="center">
+    <a href="https://github.com/JonesTPG/fullstack-theme-base">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=fullstack-theme-base&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    </a>
+    <a href="https://github.com/markusroman/Ohjelmointi2">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=markusroman&repo=Ohjelmointi2&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    </a>
+</div>
+<div align="center">
+    <a href="https://github.com/JonesTPG/hack-the-crisis">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=hack-the-crisis&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    </a>
+</div>

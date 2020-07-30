@@ -26,8 +26,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=markusroman&repo=Ohjelmointi2&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
     </a>
 </div>
+<br />
 <div align="center">
     <a href="https://github.com/JonesTPG/hack-the-crisis">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=hack-the-crisis&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=hack-the-crisis&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
     </a>
 </div>

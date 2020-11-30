@@ -14,6 +14,8 @@
 - 📫 How to reach me: **markus.roman@hotmail.fi**
 - ⛳️ Fun fact: I've made a hole-in-one in golf
 
+
+## What I know
 <div align="center">
     <a href="https://www.typescriptlang.org/">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -48,8 +50,10 @@
     <a href="https://www.office.com/">
         <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge" />
     </a>
-    <br/>
-    <br/>
+</div>
+
+## Where you can find me
+<div align="center">
     <a href="https://www.linkedin.com/in/markus-roman/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>

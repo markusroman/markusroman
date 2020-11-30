@@ -56,16 +56,6 @@
     </a>
 </div>
 
-## Where you can find me
-<div align="center">
-    <a href="https://www.linkedin.com/in/markus-roman/">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-    </a>
-    <a href="https://github.com/markusroman">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-    </a>
-</div>
-
 
 ## What I've done
 <div align="center">
@@ -74,5 +64,16 @@
     </a>
     <a href="https://github.com/markusroman/ai-ristinolla">
         <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=markusroman&repo=ai-ristinolla&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
+    </a>
+</div>
+
+
+## Where you can find me
+<div align="center">
+    <a href="https://www.linkedin.com/in/markus-roman/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://github.com/markusroman">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
     </a>
 </div>

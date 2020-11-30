@@ -60,7 +60,7 @@
 </div>
 
 
-## Featured repositories
+## What I've done
 
 <div align="center">
     <a href="https://github.com/JonesTPG/fullstack-theme-base">

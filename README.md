@@ -22,7 +22,7 @@
         <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://www.cplusplus.com/">
-        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
+        <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://reactjs.org/">
         <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
@@ -33,7 +33,7 @@
     <a href="https://git-scm.com/">
         <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
     </a>
-    <a href="https://git-scm.com/">
+    <a href="https://code.visualstudio.com/">
         <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://www.atlassian.com/software/jira">

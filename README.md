@@ -1,7 +1,7 @@
 <p align="center">
     <h1 align="center">Hi there 👋, I'm Markus!</h1>
     <h3 align="center">
-        I am a 20-year-old student who has a strong passion and interest in programming 💻 & IoT 📱.
+        I am a 21-year-old student who has a strong passion and interest in programming 💻 & IoT 📱.
     </h3>
 </p>
 

@@ -8,6 +8,7 @@
 ---
 
 ## Who I am
+
 - 👨‍🎓 I’m currently a **student** at Tampere University
 - 📚 I’m currently learning **fullstack development** and more specifically **React.js** and **GraphQL**
 - 👬 I’m looking to collaborate on interesting projects
@@ -15,8 +16,8 @@
 - 📫 How to reach me: **markus.roman@hotmail.fi**
 - ⛳️ Fun fact: I've made a hole-in-one in golf
 
-
 ## What I know
+
 <div align="center">
     <a href="https://www.typescriptlang.org/">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
@@ -56,8 +57,8 @@
     </a>
 </div>
 
-
 ## What I've done
+
 <div align="center">
     <a href="https://github.com/JonesTPG/fullstack-theme-base">
         <img height="160px" src="https://github-readme-stats.vercel.app/api/pin/?username=JonesTPG&repo=fullstack-theme-base&title_color=fff&icon_color=24a4ff&text_color=9f9f9f&bg_color=151515" />
@@ -67,13 +68,19 @@
     </a>
 </div>
 
-
 ## Where you can find me
+
 <div align="center">
     <a href="https://www.linkedin.com/in/markus-roman/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
     </a>
     <a href="https://github.com/markusroman">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCG7ChCiRUVRcs4xiQ29f5RA">
+        <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+    </a>
+    <a href="https://www.twitch.tv/snaegis">
+        <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" />
     </a>
 </div>
